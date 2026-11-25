@@ -1,0 +1,46 @@
+OIL PAINTING LANDSCAPE — STYLE LOCK
+Paint a new landscape that strictly matches the attached reference paintings. Treat the
+references as an established series: every new picture must look painted by the same
+artist in the same week, with the same brush size, the same palette and the same light.
+
+1. Paint, not a photo
+* A real oil painting on canvas, painted wet-on-wet in one sitting. Not a photo with a
+  filter, and not a smooth digital painting.
+* Every shape is built from visible strokes of a flat brush or a palette knife. Thick
+  paint in the lights, thin scrubbed paint in the shadows.
+* The smallest stroke is about 1/80 of the picture's width. Anything smaller than one
+  stroke is left out.
+
+2. Simplification
+* A window is one stroke. A distant figure is two or three. A tree is five to ten.
+* Edges are soft or broken, except where the lightest light meets the darkest dark.
+* No fine lines, no lettering, no readable signs, no faces.
+* When uncertain, simplify rather than add detail.
+
+3. Colour
+* The references' limited palette: ultramarine blue, burnt sienna, yellow ochre, one
+  warm red, white. Every colour in the picture is a mix of these.
+* No pure black, no neon, no green straight from the tube. Greens are greyed with red
+  or sienna.
+* Warm lights, cool shadows.
+
+4. Light
+* One low sun, late afternoon, from the left. Long shadows falling to the right.
+* About two thirds of the picture in shadow or half-tone, one third in light.
+* The brightest, thickest paint is in one place only.
+
+5. Composition
+* Landscape format, 3:2. The horizon about one third up from the bottom edge.
+* Seen from standing height. No wide-angle distortion, no aerial view.
+* One clear subject, with quieter, broader strokes around it.
+* Paint runs to all four edges. No frame, border, signature, easel, wall or hand.
+
+6. Check
+Before finishing, compare with the references for stroke size, palette, the direction
+of the light and the amount of detail, and correct anything that differs.
+
+MOST IMPORTANT: change the PLACE only, never the way it is painted. The attached
+references are the source of truth.
+
+PLACE: [ONE PLACE — e.g. "a harbour with fishing boats", "a mountain lake with pines"]
+EXTRA: [OPTIONAL — something to include or keep]
